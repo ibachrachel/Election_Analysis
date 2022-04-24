@@ -37,11 +37,11 @@ Denver had the highest number of votes with 306,055 votes cast, which was 83% of
 
 **- Candidate Breakdown: number of votes received and percentage of total votes**
 
-       *Charles Casper Stockham*: recevied 23% of the total votes, earning 85,213 votes.
+       Charles Casper Stockham recevied 23% of the total votes, earning 85,213 votes.
        
-       *Diana DeGette*: received 73.8% of the total votes, earning 272,892 votes
+       Diana DeGette received 73.8% of the total votes, earning 272,892 votes
        
-       *Raymon Anthony Doane* received 3.1% of the total votes, earning only 11,606 votes.
+       Raymon Anthony Doane received 3.1% of the total votes, earning only 11,606 votes.
        
 [Pencentage of Votes Received](https://user-images.githubusercontent.com/102566199/164950692-de586a14-66f8-42ab-bbc7-2857d6d3e8e0.png)
 
